@@ -33,11 +33,9 @@ h1 {
     height: 100vh;
     margin: auto;
     overflow: hidden;
-    /* border: 2px solid red; */
 }
 
 .calculator {
-    /* border: 2px solid green; */
     max-width: 330px;
     min-height: 600px;
     margin: auto;
